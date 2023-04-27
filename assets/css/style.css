@@ -703,7 +703,7 @@ section {
 }
 
 .featured-services .icon-box:hover::before {
-  background: #106eea;
+  background: #f9a61a;
   top: 0;
   border-radius: 0px;
 }
@@ -1322,6 +1322,7 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+.pricing {color: #fff;}
 .pricing .box {
   padding: 20px;
   background: #fff;
@@ -1434,6 +1435,7 @@ section {
 --------------------------------------------------------------*/
 .faq {
   padding: 60px 0;
+  color: #fff;
 }
 
 .faq .faq-list {
