@@ -9,7 +9,7 @@ submit.addEventListener('submit', (e)=> {
     Email.send({
         SecureToken : "7ed351fc-b024-4d3e-8181-0f94c4547f22",
         To : 'info.appworksco@gmail.com',
-        From : email,
+        From : 'adrianpolpeligrino27@gmail.com',
         Subject : "Appworks Co. Inquiry",
         Body : 'message'
     }).then(
